@@ -1,11 +1,15 @@
 <h1 align="center">Hi folks 👋, I'm Vishwa</h1>
+<h3 align="center">🎓I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 💻 I enjoy learning new things.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa4444&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa4444" /> </p>
 
 <p align="left"> <a href="https://twitter.com/angolkarvishwa" target="blank"><img src="https://img.shields.io/twitter/follow/angolkarvishwa?logo=twitter&style=for-the-badge" alt="angolkarvishwa" /></a> </p>
 
+- 💬 sports **⚽,🏐,🏏,🚴‍♀️**
+
 - 📫 How to reach me **angolkarvishwa@gmail.com**
 
-- ⚡ Fun fact **I Unlearn**
+- ⚡ Fun fact **I Unlearn alot :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
