@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **angolkarvishwa@gmail.com**
 
-- ⚡ Fun fact **I Unlearn alot :)**
+- ⚡ Fun fact **I like to keep things simple:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
